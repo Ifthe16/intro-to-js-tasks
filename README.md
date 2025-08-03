@@ -25,6 +25,7 @@ Print the result.
 </br>
 300
 
+---
 
 ### Task-2
 
@@ -48,6 +49,7 @@ Print the result in 2 decimal places.
 </br>
 71.04
 
+---
 
 ### Task-3
 
@@ -71,6 +73,7 @@ Print the remainder.
 </br>
 4
 
+---
 
 ### Task-4
 
